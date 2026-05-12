@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Motivated CS student with advanced Python skills and hands-on experience in key libraries like NumPy, Pandas, Matplotlib,<br>Seaborn etc. Currently learning AI/ML concepts and proficient in web technologies. Focused on building real-world projects and<br>continuously improving problem-solving abilities.
 
 
