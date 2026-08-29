@@ -1,19 +1,15 @@
 <div align="center">
 
-# 👋 Hey, I'm Adittya Saha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Adittya%20Saha&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
-### `CS Student` • `AI/ML Engineer in the making`
-
-Building practical AI-powered tools with **Python, NLP, Machine Learning & Computer Vision.**
+<a href="https://github.com/Adi-Saha-07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools...;NLP+%2B+ML+%2B+Computer+Vision;DeepScan+%7C+DeepThink-Gen2" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://github.com/Adi-Saha-07">
-  <img src="https://img.shields.io/github/followers/Adi-Saha-07?style=flat-square&logo=github&label=Followers" alt="Followers"/>
-</a>
-<a href="https://github.com/Adi-Saha-07">
-  <img src="https://komarev.com/ghpvc/?username=Adi-Saha-07&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Adi-Saha-07&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Adi-Saha-07?style=for-the-badge&color=7dd3fc&logo=github&label=FOLLOWERS)
 
 </div>
 
