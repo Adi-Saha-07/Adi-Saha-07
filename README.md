@@ -18,7 +18,6 @@
 
 ### 👨‍💻 Who I Am
 
-ts
 const adittya = {
   title: "CS Student | Aspiring AI/ML Engineer",
   stack: [
