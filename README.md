@@ -78,13 +78,11 @@ A privacy-first personality analysis platform built with Flask and Google Gemini
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adi-Saha-07&show_icons=true&theme=github_dark&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-Saha-07&layout=compact&theme=github_dark&hide_border=true&title_color=7dd3fc" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Adi-Saha-07&theme=github-dark-blue&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-Saha-07&theme=dark&hide_border=true"
+  alt="GitHub Streak"
+  height="180"
+/>
 
 </div>
 
