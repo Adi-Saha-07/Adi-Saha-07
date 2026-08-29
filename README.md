@@ -78,24 +78,28 @@ A privacy-first personality analysis platform built with Flask and Google Gemini
 
 <div align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-Saha-07&theme=dark&hide_border=true"
-  alt="GitHub Streak"
-  height="180"
-/>
+<a href="https://github.com/Adi-Saha-07">
+  <img
+    src="https://streak-stats.demolab.com?user=Adi-Saha-07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=9CA3AF&dates=6B7280"
+    width="700"
+    alt="GitHub Streak"
+  />
+</a>
 
 </div>
-
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi-Saha-07&theme=github-compact&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" width="95%" alt="Contribution Graph"/>
+<img
+  src="https://raw.githubusercontent.com/Adi-Saha-07/Adi-Saha-07/output/github-contribution-grid-snake-dark.svg"
+  width="95%"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
-
 ---
 
 ## 🤝 Connect
