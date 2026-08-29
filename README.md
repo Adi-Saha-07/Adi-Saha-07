@@ -89,19 +89,6 @@ A privacy-first personality analysis platform built with Flask and Google Gemini
 </div>
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Adi-Saha-07/Adi-Saha-07/output/github-contribution-grid-snake-dark.svg"
-  width="95%"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
----
-
 ## 🤝 Connect
 
 <div align="center">
@@ -130,3 +117,4 @@ Building → Learning → Breaking → Fixing → Shipping
 ```
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
