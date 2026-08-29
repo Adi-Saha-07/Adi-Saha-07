@@ -15,19 +15,23 @@
 
 ---
 
-## 🧑‍💻 About Me
 
-```python
-adittya = {
-    "role": "CS Student",
-    "focus": ["AI/ML", "NLP", "Computer Vision"],
-    "languages": ["Python", "C", "C++", "R", "JavaScript"],
-    "currently_building": ["DeepScan", "DeepThink-Gen2"],
-    "goal": "AI/ML Engineer"
-}
-```
+### 👨‍💻 Who I Am
 
-I enjoy turning ideas into working products — especially projects involving **AI, NLP, automation and intelligent systems**.
+ts
+const adittya = {
+  title: "CS Student | Aspiring AI/ML Engineer",
+  stack: [
+    "C", "C++", "Python", "R", "JavaScript", "HTML5", "CSS3",
+    "Flask", "MySQL", "NumPy", "Pandas", "scikit-learn",
+    "Git", "GitHub", "Vercel", "Render", "Canva"
+  ],
+  launchedProjects: ["DeepScan", "DeepThink-Gen2"],
+  certifications: [],
+  status: "Learning, building, and shipping AI/ML projects",
+  openTo: ["AI/ML Engineer roles"]
+};
+
 
 ---
 
