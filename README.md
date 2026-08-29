@@ -15,9 +15,9 @@
 
 ---
 
-
 ### 👨‍💻 Who I Am
 
+```ts
 const adittya = {
   title: "CS Student | Aspiring AI/ML Engineer",
   stack: [
@@ -30,7 +30,7 @@ const adittya = {
   status: "Learning, building, and shipping AI/ML projects",
   openTo: ["AI/ML Engineer roles"]
 };
-
+```
 
 ---
 
